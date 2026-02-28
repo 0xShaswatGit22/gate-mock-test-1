@@ -4,7 +4,8 @@ A beautiful, interactive **GATE 2026** online mock test platform built with HTML
 Perfect for students preparing for GATE — complete with timer, question palette, marking for review, login/signup, and submission!
 
 ![GATE Mock Test Preview](https://via.placeholder.com/800x400.png?text=GATE+2026+Mock+Test+Preview)  
-*(Add your own screenshot here later!)*
+<img width="1786" height="934" alt="image" src="https://github.com/user-attachments/assets/058a7fe2-e444-41d0-ac4c-8ab6d6566db4" />
+
 
 ## ✨ Features
 
