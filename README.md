@@ -36,9 +36,10 @@ Perfect for students preparing for GATE — complete with timer, question palett
 
 ## 📂 Project Structure
 
+```text
 gate-mock-test/
-├── index.html         # Main test page with auth & exam UI
-├── style.css          # All styling & responsive design
-├── script.js          # Login, signup, timer, question logic, palette, scoring
-├── questions.json     # (optional) Your GATE questions in JSON format
-└── README.md          # You're reading this right now 😄
+├── index.html          # Main page with login/signup + exam UI
+├── style.css           # All styling and responsive layout
+├── script.js           # Authentication, timer, questions, palette & scoring logic
+├── questions.json      # (Optional) GATE questions stored in JSON format
+└── README.md           # This file you're reading right now 😄
