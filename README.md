@@ -35,3 +35,10 @@ Perfect for students preparing for GATE — complete with timer, question palett
 🔗 Live Demo: [Coming soon – deploy to GitHub Pages / Netlify / Vercel]
 
 ## 📂 Project Structure
+
+gate-mock-test/
+├── index.html         # Main test page with auth & exam UI
+├── style.css          # All styling & responsive design
+├── script.js          # Login, signup, timer, question logic, palette, scoring
+├── questions.json     # (optional) Your GATE questions in JSON format
+└── README.md          # You're reading this right now 😄
